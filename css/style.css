@@ -1,0 +1,74 @@
+
+
+body {
+  font-family: sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #fff;
+}
+
+
+
+.primary-color {
+  background-color: #797596;
+}
+
+.primary-color-light {
+  background-color: #FDECEF;
+}
+
+.secondary-color {
+  background-color: #DE9151;
+}
+
+.secondary-color-light {
+  background-color: #E2EF70;
+}
+
+.contrast-color {
+  background-color: #4A5899;
+  color: #fff;
+}
+.center {
+  text-align: center;
+}
+
+.regiao {
+  height: 630px;
+  padding: 90px;
+
+}
+
+.linha {
+  padding-top: 30px;
+}
+
+.col-2 {
+  display: inline-block;
+  width: 49.7%;
+}
+
+.col-3 {
+  display: inline-block;
+  width: 32.9%;
+}
+
+
+.projeto {
+  height: 260px;
+  border-radius: 2px;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.mbottom-2 {
+  margin-bottom: 8px;
+}
+
+.light-ft {
+  color: #fff;
+}
+
+.dark-ft {
+  color: #293651;
+}
