@@ -1,0 +1,28 @@
+.primary-color {
+  background-color: #797596;
+}
+
+.primary-color-light {
+  background-color: #fdecef;
+}
+
+.secondary-color {
+  background-color: #de9151;
+}
+
+.secondary-color-light {
+  background-color: #e2ef70;
+}
+
+.contrast-color {
+  background-color: #4a5899;
+  color: #fff;
+}
+
+.light-ft {
+  color: #fff;
+}
+
+.dark-ft {
+  color: #293651;
+}

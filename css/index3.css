@@ -11,13 +11,21 @@
   padding-top: 30px;
 }
 
+.col-2 {
+  column-count: 2;
+}
+
+.col-3 {
+  column-count: 3;
+}
+
 .projeto {
-  height: 80px;
+  height: 260px;
   border-radius: 2px;
   padding: 30px;
   box-sizing: border-box;
 }
 
 .mbottom-2 {
-  margin-bottom: 8px;
+  margin-bottom: 18px;
 }

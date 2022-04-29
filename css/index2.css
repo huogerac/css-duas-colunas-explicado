@@ -1,0 +1,16 @@
+.col-2 {
+  display: inline-block;
+  width: 49.7%;
+}
+
+.col-3 {
+  display: inline-block;
+  width: 32.9%;
+}
+
+.projeto {
+  height: 260px;
+  border-radius: 2px;
+  padding: 30px;
+  box-sizing: border-box;
+}
